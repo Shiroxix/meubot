@@ -1,10 +1,10 @@
 const path = require("path");
 
 // Prefixo padrão dos comandos.
-exports.PREFIX = "/";
+exports.PREFIX = "!";
 
 // Emoji do bot (mude se preferir).
-exports.BOT_EMOJI = "";
+exports.BOT_EMOJI = "🪐";
 
 // Nome do bot (mude se preferir).
 exports.BOT_NAME = " Shiro Bot";
